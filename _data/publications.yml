@@ -13,7 +13,7 @@ main:
     authors: <strong>Ruize Cui</strong>, Jiaan Zhang, Jialun Pei*, Kai Wang, Pheng-Ann Heng, Jing Qin
     conference_short: MICCAI
     conference: The 28th International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI2025)</strong>, 2025.
-    arXiV: https://arxiv.org/abs/2507.00519
+    arXiv: https://arxiv.org/abs/2507.00519
     official: https://papers.miccai.org/miccai-2025/paper/0755_paper.pdf
     code: https://github.com/cuiruize/TopoNet
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
@@ -25,7 +25,7 @@ main:
     authors: Jialun Pei*, <strong>Ruize Cui*</strong>, Yaoqian Li*, Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions, **Corresponding author)
     conference_short: MICCAI
     conference: The 27th International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI2024)</strong>, 2024.
-    arXiV: https://arxiv.org/abs/2406.17858
+    arXiv: https://arxiv.org/abs/2406.17858
     official: https://papers.miccai.org/miccai-2024/210-Paper0310.html
     code: https://github.com/PJLallen/D2GPLand
     notes: Oral, Best paper finalist
