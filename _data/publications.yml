@@ -6,7 +6,7 @@ main:
     conference: Medical Image Analysis <strong>(MedIA)</strong>, 2026.
     official: https://www.sciencedirect.com/science/article/pii/S1361841526000095?ref=pdf_download&fr=RR-2&rr=9c158b32bc940ed2
     code: https://github.com/cuiruize/D2GPLand-Plus
-    # image: ./assets/img/teaser_example_2.png
+    image: ./assets/img/teaser_example.png
     # notes: Early Accept
 
   - title: "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection"
@@ -19,7 +19,7 @@ main:
     # page: https://class-il.mpi-inf.mpg.de/mnemonics/
     # bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
     # notes: Oral Presentation
-    # image: ./assets/img/teaser_example.png
+    image: ./assets/img/teaser_example.png
 
   - title: "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection"
     authors: *Jialun Pei*, <strong>*Ruize Cui*</strong>, *Yaoqian Li*, **Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions, **Corresponding author)
@@ -28,3 +28,5 @@ main:
     arXiV: https://arxiv.org/abs/2406.17858
     official: https://papers.miccai.org/miccai-2024/210-Paper0310.html
     code: https://github.com/PJLallen/D2GPLand
+    notes: Oral, Best paper finalist
+    image: ./assets/img/teaser_example.png
