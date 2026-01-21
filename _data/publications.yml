@@ -22,7 +22,7 @@ main:
     image: ./assets/img/teaser_example.png
 
   - title: "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection"
-    authors: *Jialun Pei*, <strong>*Ruize Cui*</strong>, *Yaoqian Li*, **Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions, **Corresponding author)
+    authors: *Jialun Pei*, <strong>*Ruize Cui*</strong>, *Yaoqian Li*, **Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions*, **Corresponding author**)
     conference_short: MICCAI
     conference: The 27th International Conference on Medical Image Computing and Computer Assisted Intervention <strong>(MICCAI2024)</strong>, 2024.
     arXiV: https://arxiv.org/abs/2406.17858
