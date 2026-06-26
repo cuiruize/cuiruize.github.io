@@ -16,6 +16,13 @@ main:
     code: https://github.com/cuiruize/Land-Reg
     image: ./assets/img/landreg_teaser.png
 
+  - title: "Taming Large Vision Model for Medical Image Segmentation via Dual Visual Prompt Tuning"
+    authors: <strong>Ruize Cui</strong>, Lanqing Liu, Jing Zou, Xiaowei Hu, Jialun Pei, Jing Qin
+    conference_short: CMIG
+    conference: Computerized Medical Imaging and Graphics <strong>(CMIG)</strong>, 2025.
+    official: https://doi.org/10.1016/j.compmedimag.2025.102608
+    image: ./assets/img/dvpt_teaser.png
+
   - title: "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection"
     authors: <strong>Ruize Cui</strong>, Jiaan Zhang, Jialun Pei*, Kai Wang, Pheng-Ann Heng, Jing Qin
     conference_short: MICCAI
@@ -24,6 +31,13 @@ main:
     official: https://papers.miccai.org/miccai-2025/paper/0755_paper.pdf
     code: https://github.com/cuiruize/TopoNet
     image: ./assets/img/toponet_teaser.png
+
+  - title: "Multi-scale Contextual Learning for Medical Image Segmentation via Dual Distillation"
+    authors: <strong>Ruize Cui</strong>, Lanqing Liu, Youyi Song, Ge Ren, Xiaowei Hu, Jing Qin
+    conference_short: MedPhys
+    conference: Medical Physics <strong>(MedPhys)</strong>, 2025.
+    official: https://doi.org/10.1002/mp.17506
+    image: ./assets/img/dual_distillation_teaser.png
 
   - title: "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection"
     authors: Jialun Pei*, <strong>Ruize Cui*</strong>, Yaoqian Li*, Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions, **Corresponding author)
