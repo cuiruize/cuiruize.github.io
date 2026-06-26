@@ -15,6 +15,7 @@ I am a Ph.D. student at The Hong Kong Polytechnic University, under the supervis
 ## News
 
 - **[Mar. 2026]** Our paper "Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection" was published in Medical Image Analysis.
+- **[Mar. 2026]** Our preprint "Preoperative-to-intraoperative Liver Registration for Laparoscopic Surgery via Latent-Grounded Correspondence Constraints" is available on arXiv.
 - **[Sept. 2025]** Our paper "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection" was accepted to MICCAI 2025.
 - **[Oct. 2024]** Our paper "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection" was accepted to MICCAI 2024 as an oral presentation and best paper finalist.
 
