@@ -32,13 +32,6 @@ main:
     code: https://github.com/cuiruize/TopoNet
     image: ./assets/img/toponet_teaser.png
 
-  - title: "Multi-scale Contextual Learning for Medical Image Segmentation via Dual Distillation"
-    authors: <strong>Ruize Cui</strong>, Lanqing Liu, Youyi Song, Ge Ren, Xiaowei Hu, Jing Qin
-    conference_short: MedPhys
-    conference: Medical Physics <strong>(MedPhys)</strong>, 2025.
-    official: https://doi.org/10.1002/mp.17506
-    image: ./assets/img/dual_distillation_teaser.png
-
   - title: "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection"
     authors: Jialun Pei*, <strong>Ruize Cui*</strong>, Yaoqian Li*, Weixin Si**, Jing Qin, Pheng-Ann Heng (*Equal contributions, **Corresponding author)
     conference_short: MICCAI
