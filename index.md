@@ -4,20 +4,18 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student at The Hong Kong Polytechnic University, under the supervision of Prof. Jing Qin. My research interests lie in surgical scene understanding and medical AI, especially intelligent visual perception and analysis for computer-assisted intervention.
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Laparoscopic Liver Landmark Detection:** robust anatomical landmark detection in minimally invasive surgical scenes.
+- **Preoperative-to-Intraoperative Liver Registration:** aligning preoperative imaging with intraoperative observations for surgical navigation.
+- **Medical Image Segmentation:** learning-based segmentation methods for medical image analysis and surgical applications.
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[Mar. 2026]** Our paper "Depth-Induced Prompt Learning for Laparoscopic Liver Landmark Detection" was published in Medical Image Analysis.
+- **[Sept. 2025]** Our paper "Topology-Constrained Learning for Efficient Laparoscopic Liver Landmark Detection" was accepted to MICCAI 2025.
+- **[Oct. 2024]** Our paper "Depth-Driven Geometric Prompt Learning for Laparoscopic Liver Landmark Detection" was accepted to MICCAI 2024 as an oral presentation and best paper finalist.
 
 {% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
